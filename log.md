@@ -13,3 +13,13 @@ Day 2: February 9, 2017
 Tribute page : http://codepen.io/aaayumi/pen/mRzvwK
 
 **Thoughts:** I thought that I already know a lot of thing, however once I started to create a project by myself, I easily face difficulties. It's totally different from following tutorials and copying sample code.. I should tackle on projects as many as possible..!!
+
+Day 3: February 10, 2017
+
++**Today's Progress**: Started to build a "portfolio page". I created navbar, container and footer. Still on progress. 
+
++**Today's Work**
+Portofolio page http://codepen.io/aaayumi/pen/vgQgQo
+
+**Thoughts:**
+I should not look down CSS. I cannot still make use of it fully.
