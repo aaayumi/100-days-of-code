@@ -23,3 +23,13 @@ Portofolio page http://codepen.io/aaayumi/pen/vgQgQo
 
 **Thoughts:**
 I should not look down CSS. I cannot still make use of it fully.
+
+Day 4: February 11, 2017
+
++**Today's Progress**: Finished a "portfolio page". I created a contact form and tweaked design. Also, I'm doing Javascript exercise in FreeCodeCamp.
+
++**Today's Work**
+Portofolio page http://codepen.io/aaayumi/pen/vgQgQo
+
+**Thoughts:**
+There are many factors to improve on my portfolio page.. I hope I will be able to make one which I can satisfy with.. 
