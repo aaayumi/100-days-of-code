@@ -33,3 +33,11 @@ Portofolio page http://codepen.io/aaayumi/pen/vgQgQo
 
 **Thoughts:**
 There are many factors to improve on my portfolio page.. I hope I will be able to make one which I can satisfy with.. 
+
+Day 5: February 12, 2017
+
++Today's Progress: Completed Basic Javascript and Object oriented programming from FreeCodeCamp
+
++Today's Work : Basic Javascript and Object oriented programming
+
++Thoughts: I like to code more! 
