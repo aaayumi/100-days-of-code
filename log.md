@@ -41,3 +41,13 @@ Day 5: February 12, 2017
 +Today's Work : Basic Javascript and Object oriented programming
 
 +Thoughts: I like to code more! 
+
+Day 6: February 13, 2017
+
++**Today's Progress**: Continue Basic Algorithm Scripting from FreeCodeCamp
+
++**Today's Work**
+Basic Algorithm Scripting
+
+**Thoughts:**
+What is an important thing for doing tutorial is to think and understand the solution.
