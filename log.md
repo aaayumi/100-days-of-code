@@ -51,3 +51,13 @@ Basic Algorithm Scripting
 
 **Thoughts:**
 What is an important thing for doing tutorial is to think and understand the solution.
+
+Day 7: February 14, 2017
+
++**Today's Progress**: Completed Basic Algorithm Scripting from FreeCodeCamp.
+
++**Today's Work**
+Basic Algorithm Scripting
+
+**Thoughts:**
+I think I need to review Basic Algorithm Scripting again.
