@@ -61,3 +61,11 @@ Basic Algorithm Scripting
 
 **Thoughts:**
 I think I need to review Basic Algorithm Scripting again.
+
+Day 8: February 15, 2017
+
++Today's Progress: Build a Random Quote Machine from FreeCodeCamp.
+
++Today's Work Build a Random Quote Machine
+
+Thoughts: Making something is more interesting than reading or following tutorials. I need to add 'twitter share button' tomorrow! 
