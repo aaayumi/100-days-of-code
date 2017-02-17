@@ -64,8 +64,19 @@ I think I need to review Basic Algorithm Scripting again.
 
 Day 8: February 15, 2017
 
-+Today's Progress: Build a Random Quote Machine from FreeCodeCamp.
++**Today's Progress**: Build a Random Quote Machine from FreeCodeCamp.
 
-+Today's Work Build a Random Quote Machine
++**Today's Work** Build a Random Quote Machine
 
-Thoughts: Making something is more interesting than reading or following tutorials. I need to add 'twitter share button' tomorrow! 
+**Thoughts:**: Making something is more interesting than reading or following tutorials. I need to add 'twitter share button' tomorrow! 
+
+Day 9: February 17, 2017
+
++**Today's Progress**: Worked on Weather app from FreeCodeCamp and Character List in PHP.
+
++**Today's Work**
+ Weather app
+ Character List 
+
+**Thoughts:**
+I could get feedback about CharacterList today. It motivated me to work on it again. I want to finish it with basic features.
