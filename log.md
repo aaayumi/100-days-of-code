@@ -80,3 +80,14 @@ Day 9: February 17, 2017
 
 **Thoughts:**
 I could get feedback about CharacterList today. It motivated me to work on it again. I want to finish it with basic features.
+
+Day 10: February 18, 2017
+
++**Today's Progress**: Added weather icon, image (still not working) and Celcius-Fahrenheit switch function.
+
++**Today's Work**
+Character list (AM) -- Completed
+Weather App (PM) -- 90% Completed
+
+**Thoughts:**
+I wanted to finish weather app today. But still background image does not appear properly. I have to fix it tomorrow. 
