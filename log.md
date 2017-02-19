@@ -91,3 +91,15 @@ Weather App (PM) -- 90% Completed
 
 **Thoughts:**
 I wanted to finish weather app today. But still background image does not appear properly. I have to fix it tomorrow. 
+
+Day 11: February 19, 2017
+
++**Today's Progress**: Completed Weather app! Started to work on Wikipedia viewer. 
+
++**Today's Work**
+Weather App (AM) -- Completed
+ Wikipedia viewer (PM) -- 90% Completed
+
+**Thoughts:**
+Thanks to help of a kind, experienced developer from Stackoverflow, I could figure out the problem of the weather app. Now it looks fine. I like it.
+Next task from freecodecamp is Wikipedia viewer. It should be much easier after dealing with past API related tasks..Today,I called JSON data from wikipedia API link. I need to create list from the data. 
