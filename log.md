@@ -98,8 +98,20 @@ Day 11: February 19, 2017
 
 +**Today's Work**
 Weather App (AM) -- Completed
- Wikipedia viewer (PM) -- 90% Completed
+ Wikipedia viewer (PM) -- 20%Completed
 
 **Thoughts:**
 Thanks to help of a kind, experienced developer from Stackoverflow, I could figure out the problem of the weather app. Now it looks fine. I like it.
 Next task from freecodecamp is Wikipedia viewer. It should be much easier after dealing with past API related tasks..Today,I called JSON data from wikipedia API link. I need to create list from the data. 
+
+Day 12: February 20, 2017
+
++**Today's Progress**: Work on Wikipedia viewer. Learned Wikipedia api.
+
++**Today's Work**
+Wikipedia viewer
+Struggling to show wikipedia results.
+
+**Thoughts:**
+I totally stuck at where the wikipedia result shows up. I couldn't figure it out the problem by myself...
+
