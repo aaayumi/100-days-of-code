@@ -115,3 +115,13 @@ Struggling to show wikipedia results.
 **Thoughts:**
 I totally stuck at where the wikipedia result shows up. I couldn't figure it out the problem by myself...
 
+Day 13: February 21, 2017
+
++**Today's Progress**: Completed Wiki app. Read You-Dont-Know-JS.
+
++**Today's Work**
+Wikipedia viewer
+You-Dont-Know-JS Up&Going
+
+**Thoughts:**
+I started to read and use other materials/resources apart from freecodecamp. I want to learn and practice efficiently.
