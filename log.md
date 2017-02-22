@@ -125,3 +125,14 @@ You-Dont-Know-JS Up&Going
 
 **Thoughts:**
 I started to read and use other materials/resources apart from freecodecamp. I want to learn and practice efficiently.
+
+Day 14: February 22, 2017
+
++**Today's Progress**: Read You-Dont-Know-JS. Started Twitch app.
+
++**Today's Work**
+You-Dont-Know-JS Scope 
+Twitch app from FCC
+
+**Thoughts:**
+I want to learn more but I feel sick today. I decided to take a rest... I will give this time back tomorrow! 
