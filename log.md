@@ -136,3 +136,14 @@ Twitch app from FCC
 
 **Thoughts:**
 I want to learn more but I feel sick today. I decided to take a rest... I will give this time back tomorrow! 
+
+Day 15: February 23, 2017
+
++**Today's Progress**: Read You-Dont-Know-JS(This & Objects) Twitch app.
+
++**Today's Work**
+You-Dont-Know-JS Scope 
+Twitch app from FCC
+
+**Thoughts:**
+I couldn't make enough time to work on twitch app..  Started to use Anki to remember the code what I learned! 
