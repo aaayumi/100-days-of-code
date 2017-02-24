@@ -147,3 +147,11 @@ Twitch app from FCC
 
 **Thoughts:**
 I couldn't make enough time to work on twitch app..  Started to use Anki to remember the code what I learned! 
+
+Day 16: February 24, 2017
+
++Today's Progress: Read You-Dont-Know-JS(This & Objects) / Advanced HTML$CSS /JS video turotorial/ FCC Twitch app.
+
++Today's Work Playing with JSON/Ajax (Wondering which tool shold I use for Twitch app).
+
+Thoughts: Started to watch JS video tutorial from today. It helps me to understand better what YDKN books explain. Coded Javascript API for twich app.
