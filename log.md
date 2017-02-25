@@ -155,3 +155,13 @@ Day 16: February 24, 2017
 +Today's Work Playing with JSON/Ajax (Wondering which tool shold I use for Twitch app).
 
 Thoughts: Started to watch JS video tutorial from today. It helps me to understand better what YDKN books explain. Coded Javascript API for twich app.
+
+Day 17: February 25, 2017
+
++**Today's Progress**: Twitch TV 
+
++**Today's Work**
+Twitch TV app 
+
+**Thoughts:**
+Completed Twich app task though I'm not satisfied with the result. I want to come back to improve it later.. 
