@@ -164,4 +164,14 @@ Day 17: February 25, 2017
 Twitch TV app 
 
 **Thoughts:**
-Completed Twich app task though I'm not satisfied with the result. I want to come back to improve it later.. 
+Completed Twitch app task though I'm not satisfied with the result. I want to come back to improve it later.. 
+
+Day 18: February 26, 2017
+
++**Today's Progress**: Creating a portfolio website, Javascript tutorial, FCC intermidiate Algorithm Scripting.
+
++**Today's Work**
+Portofolio website
+
+**Thoughts:**
+I was struggling to figure out to make a Github page. I want to try and learn Jkyell for it. 
