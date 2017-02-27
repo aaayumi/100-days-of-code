@@ -175,3 +175,13 @@ Portofolio website
 
 **Thoughts:**
 I was struggling to figure out to make a Github page. I want to try and learn Jkyell for it. 
+
+Day 19: February 27, 2017
+
++**Today's Progress**: Working on portfolio. Wathcing JS video and reading YDKJ book.
+
++**Today's Work**
+Portofolio (Installing bootstrap, writing index.html, designing navbar ) 
+
+**Thoughts:**
+I got inspiration from several portfolio page made by bootstrap. I will make one for mine. I want to make it by the end of this week. 
