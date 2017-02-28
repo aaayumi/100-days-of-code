@@ -185,3 +185,13 @@ Portofolio (Installing bootstrap, writing index.html, designing navbar )
 
 **Thoughts:**
 I got inspiration from several portfolio page made by bootstrap. I will make one for mine. I want to make it by the end of this week. 
+
+Day 20: February 28, 2017
+
++**Today's Progress**: Working on portfolio. Wathcing JS video and reading YDKJ book.
+
++**Today's Work**
+Portofolio (Designed portfolio section and blog section ) 
+
+**Thoughts:**
+I have several ideas that I want to try. At the same time I'm using more time than I had planned. Should I stick to the simple design first? 
