@@ -195,3 +195,13 @@ Portofolio (Designed portfolio section and blog section )
 
 **Thoughts:**
 I have several ideas that I want to try. At the same time I'm using more time than I had planned. Should I stick to the simple design first? 
+
+Day 21: March 1, 2017
+
++**Today's Progress**: Portfolio page, FCC Algorithm 
+
++**Today's Work**
+Portofolio (Contact page ) 
+
+**Thoughts:**
+I have to learn Jekyll to implement my portfolio page... 
