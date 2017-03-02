@@ -205,3 +205,13 @@ Portofolio (Contact page )
 
 **Thoughts:**
 I have to learn Jekyll to implement my portfolio page... 
+
+Day 22: March 2, 2017
+
++**Today's Progress**: Portfolio page, FCC Algorithm 
+
++**Today's Work**
+Portofolio (Contact page ) 
+
+**Thoughts:**
+Today is my first challallenge of cosing during my trip. So far I cannot help thinking of coding while doing sightseeing. I want to make time to code while enjoy travelling.
