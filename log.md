@@ -215,3 +215,13 @@ Portofolio (Contact page )
 
 **Thoughts:**
 Today is my first challallenge of cosing during my trip. So far I cannot help thinking of coding while doing sightseeing. I want to make time to code while enjoy travelling.
+
+Day 22: March 3, 2017
+
++**Today's Progress**:  FCC Algorithm 
+
++**Today's Work**
+FCC Algorithm 
+
+**Thoughts:**
+I worked on FCC Algorithm after coming back from sightseeing. It was tough than I had expected. But I think it's better than doing nothing. 
