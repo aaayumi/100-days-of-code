@@ -235,3 +235,13 @@ FCC Algorithm
 
 **Thoughts:**
 I watched Udemy video while taking a train. I tried to solve FCC Algorithm question even though I couldn't. At least I could tackle on the task. 
+
+Day 24: March 5, 2017
+
++**Today's Progress**:  FCC Algorithm 
+
++**Today's Work**
+FCC Algorithm 
+
+**Thoughts:**
+Worked on Algorithm task today while travelling. It was hard to make time to code while travelling.. 
