@@ -225,3 +225,13 @@ FCC Algorithm
 
 **Thoughts:**
 I worked on FCC Algorithm after coming back from sightseeing. It was tough than I had expected. But I think it's better than doing nothing. 
+
+Day 23: March 4, 2017
+
++**Today's Progress**:  FCC Algorithm 
+
++**Today's Work**
+FCC Algorithm 
+
+**Thoughts:**
+I watched Udemy video while taking a train. I tried to solve FCC Algorithm question even though I couldn't. At least I could tackle on the task. 
