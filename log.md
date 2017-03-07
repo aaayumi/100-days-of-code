@@ -245,3 +245,24 @@ FCC Algorithm
 
 **Thoughts:**
 Worked on Algorithm task today while travelling. It was hard to make time to code while travelling.. 
+
+Day 25: March 6, 2017
+
++**Today's Progress**:  FCC Algorithm 
+
++**Today's Work**
+FCC Algorithm 
+
+**Thoughts:**
+I felt sick and went to bed earlier. I couldn't code as I had planned. I will get this back later this week!! 
+
+Day 26: March 7, 2017
+
++**Today's Progress**:  FCC Algorithm 
+
++**Today's Work**
+FCC Algorithm 
+
+**Thoughts:**
+Solved two Slgorithm Scripting. I wanted to code for my portfolio but I didn't have time to do it.
+
