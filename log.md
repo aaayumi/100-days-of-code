@@ -266,3 +266,22 @@ FCC Algorithm
 **Thoughts:**
 Solved two Slgorithm Scripting. I wanted to code for my portfolio but I didn't have time to do it.
 
+Day 27: March 8, 2017
+
++**Today's Progress**:  FCC Algorithm 
+
++**Today's Work**
+FCC Algorithm (Sorted Union)
+
+**Thoughts:**
+I was planning to code in the evening. However, I didn't have time. It's a pity that I don't make a progress as I planned..
+
+Day 28: March 9, 2017
+
++**Today's Progress**:  FCC Algorithm , YDKJS book (Coersion ) 
+
++**Today's Work**
+FCC Algorithm (Convert HTML Entities Complete,Spinal Tap Case Complete ) 
+
+**Thoughts:**
+Finally I made time to study coding more than 1hours in cosectively.  I have to catch up with my initial plan!! 
