@@ -285,3 +285,14 @@ FCC Algorithm (Convert HTML Entities Complete,Spinal Tap Case Complete )
 
 **Thoughts:**
 Finally I made time to study coding more than 1hours in cosectively.  I have to catch up with my initial plan!! 
+
+Day 29: March 10, 2017
+
++**Today's Progress**:  FCC Algorithm , YDKJS book (Grammer ) 
+
++**Today's Work**
+FCC Algorithm (Everything Be True Binary Agents Steamroller Drop it Sum All Primes Complete   ) 
+Tabinotebook design 
+
+**Thoughts:**
+Tweaked my blog design. I need to optimize the mobile design..!! I enjoy solving algorithm problems. 
