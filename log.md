@@ -291,8 +291,19 @@ Day 29: March 10, 2017
 +**Today's Progress**:  FCC Algorithm , YDKJS book (Grammer ) 
 
 +**Today's Work**
-FCC Algorithm (Everything Be True Binary Agents Steamroller Drop it Sum All Primes Complete   ) 
+FCC Algorithm (Everything Be True Binary Agents Steamroller Drop it Sum All Primes  ) 
 Tabinotebook design 
 
 **Thoughts:**
 Tweaked my blog design. I need to optimize the mobile design..!! I enjoy solving algorithm problems. 
+
+Day 30: March 11, 2017
+
++**Today's Progress**:  FCC Algorithm , YDKJS book  , Portfolio (JEKYLL)
+
++**Today's Work**
+FCC Algorithm (Smallest Common Multiple,Smallest Common Multiple Incomplete  ) 
+Tabinotebook design 
+
+**Thoughts:**
+I was struggling to figure out Jekyll and Github page again. Why is it complicated ??  I hope I will be able to command of them soon...
