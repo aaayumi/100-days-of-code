@@ -307,3 +307,14 @@ Tabinotebook design
 
 **Thoughts:**
 I was struggling to figure out Jekyll and Github page again. Why is it complicated ??  I hope I will be able to command of them soon...
+
+Day 31: March 12, 2017
+
++**Today's Progress**:  FCC Algorithm , YDKJS book  , Portfolio (JEKYLL)
+
++**Today's Work**
+FCC Algorithm (Sum All Odd Fibonacci Numbers ) 
+Portfolio 
+
+**Thoughts:**
+Continue studying FCC Algorithm task and reading YDKJS book. I practiced how to use git. 
