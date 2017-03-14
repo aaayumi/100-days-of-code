@@ -318,3 +318,23 @@ Portfolio
 
 **Thoughts:**
 Continue studying FCC Algorithm task and reading YDKJS book. I practiced how to use git. 
+
+Day 32: March 13, 2017
+
++**Today's Progress**:  YDKJS book  , Git, React JS 
+
++**Today's Work**
+Practicing Git and studying React JS
+
+**Thoughts:**
+Still practicing Git. Got a new coding challenge. I need to review React JS for it.
+
+Day 33: March 14, 2017
+
++**Today's Progress**:   React JS 
+
++**Today's Work**
+React JS (Buliding simple app ) 
+
+**Thoughts:**
+Playing around with React JS. I will start to work on coding challenge from tomorrow! 
