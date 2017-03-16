@@ -348,3 +348,14 @@ React JS tutorial
 
 **Thoughts:**
 Kept playing around ReactJS. Initial plan was start to make an app but I couldn't. I will do it tomorrow.
+
+Day 35: March 16, 2017
+
++**Today's Progress**: React JS, YDKJS book, Udemy video tutorial, Building Jekyll webpage   
+
++**Today's Work**
+React JS 
+Jekyll webpage   
+
+**Thoughts:**
+I'm starting to familiar with using git and github, finally! I need to practice it more though. I will focus on React challenge and Jekyll for upcoming days.'
