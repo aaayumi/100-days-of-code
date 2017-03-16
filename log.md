@@ -338,3 +338,13 @@ React JS (Buliding simple app )
 
 **Thoughts:**
 Playing around with React JS. I will start to work on coding challenge from tomorrow! 
+
+Day 34: March 15, 2017
+
++**Today's Progress**:   React JS tutorial 
+
++**Today's Work**
+React JS tutorial
+
+**Thoughts:**
+Kept playing around ReactJS. Initial plan was start to make an app but I couldn't. I will do it tomorrow.
