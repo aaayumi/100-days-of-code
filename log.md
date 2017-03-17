@@ -359,3 +359,13 @@ Jekyll webpage
 
 **Thoughts:**
 I'm starting to familiar with using git and github, finally! I need to practice it more though. I will focus on React challenge and Jekyll for upcoming days.'
+
+Day 36: March 17, 2017
+
++**Today's Progress**: React JS, YDKJS book, Freecode Algorithm, RegEx   
+
++**Today's Work**
+React JS 
+
+**Thoughts:**
+I could mede a foundation for React coding challenge today! I need to tweak design this weekend. 
