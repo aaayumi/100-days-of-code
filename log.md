@@ -368,4 +368,26 @@ Day 36: March 17, 2017
 React JS 
 
 **Thoughts:**
-I could mede a foundation for React coding challenge today! I need to tweak design this weekend. 
+I could mede a foundation for React coding challenge today! I need to tweak design this weekend.
+
+Day 37: March 18, 2017
+
++**Today's Progress**: React JS, YDKJS book, Freecode camp Algorithm, RegEx   
+
++**Today's Work**
+React JS 
+Tabinotebook
+
+**Thoughts:**
+I tweaked my blog in the morning. It looks much better. I was struggling to style the ReactJS.  After that, I tackled on the freecodecamp advanced algorithm problem.  I planned to code more but I couldn't due to miscellaneous stuff. '
+
+Day 38: March 19, 2017
+
++**Today's Progress**: React JS, YDKJS book, Freecode camp Algorithm, Portfolio 
+
++**Today's Work**
+React JS (bookstore.app)
+Portfolio 
+
+**Thoughts:**
+Finished bookstore.app. Solved one algorithm problem. Read YSKJS book and wathced some video to understand promise. 
