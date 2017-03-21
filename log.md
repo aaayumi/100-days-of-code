@@ -391,3 +391,23 @@ Portfolio
 
 **Thoughts:**
 Finished bookstore.app. Solved one algorithm problem. Read YSKJS book and wathced some video to understand promise. 
+
+Day 39: March 20, 2017
+
++**Today's Progress**: Freecodecamp Advanced Algorithm 
+
++**Today's Work**
+Freecodecamp Advanced Algorithm 
+
+**Thoughts:**
+I solved two advanced algorithm problems today. I reviewed how to use 'reducing' while tackling on the problem.
+
+Day 40: March 21, 2017
+
++**Today's Progress**: Freecodecamp Advanced Algorithm 
+
++**Today's Work**
+Freecodecamp Advanced Algorithm 
+
+**Thoughts:**
+I start to watch Udemy video 'Javascript Wired part' again to comprehend Javascript language...!
