@@ -411,3 +411,13 @@ Freecodecamp Advanced Algorithm
 
 **Thoughts:**
 I start to watch Udemy video 'Javascript Wired part' again to comprehend Javascript language...!
+
+Day 41: March 22, 2017
+
++**Today's Progress**: Freecodecamp Advanced Algorithm 
+
++**Today's Work**
+Freecodecamp Advanced Algorithm 
+
+**Thoughts:**
+Permutations is soooo hard to gasp...
