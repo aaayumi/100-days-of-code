@@ -421,3 +421,23 @@ Freecodecamp Advanced Algorithm
 
 **Thoughts:**
 Permutations is soooo hard to gasp...
+
+Day 42: March 23, 2017
+
++**Today's Progress**: Freecodecamp Advanced Algorithm 
+
++**Today's Work**
+Freecodecamp Advanced Algorithm 
+
+**Thoughts:**
+I could resolve inventory update finally. I really appreciate people who can gave me advice in the forum! 
+
+Day 43: March 24, 2017
+
++**Today's Progress**: Freecodecamp Advanced Algorithm , Video tutorial 
+
++**Today's Work**
+Freecodecamp Advanced Algorithm 
+
+**Thoughts:**
+I could solve three algorithm problems today. Finished Advanced Algorithm! 
