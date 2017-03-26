@@ -441,3 +441,13 @@ Freecodecamp Advanced Algorithm
 
 **Thoughts:**
 I could solve three algorithm problems today. Finished Advanced Algorithm! 
+
+Day 44: March 25, 2017
+
++**Today's Progress**: Calculator, Video tutorial 
+
++**Today's Work**
+Calculator
+
+**Thoughts:**
+Starting to make a calculator for a advanced Javascript projects! 
