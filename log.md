@@ -451,3 +451,23 @@ Calculator
 
 **Thoughts:**
 Starting to make a calculator for a advanced Javascript projects! 
+
+Day 45: March 26, 2017
+
++**Today's Progress**: Calculator, Video tutorial 
+
++**Today's Work**
+Calculator
+
+**Thoughts:**
+Making a calculator is harder than I had expected.
+
+Day 46: March 26, 2017
+
++**Today's Progress**: Calculator, Bookstore.app
+
++**Today's Work**
+Calculator, Bookstore.app
+
+**Thoughts:**
+Starting to learn React.JS again to brush up my Bookstore.app. 
