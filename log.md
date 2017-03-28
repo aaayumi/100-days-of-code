@@ -471,3 +471,14 @@ Calculator, Bookstore.app
 
 **Thoughts:**
 Starting to learn React.JS again to brush up my Bookstore.app. 
+
+Day 47: March 27, 2017
+
++**Today's Progress**: Calculator, Bookstore.app
+
++**Today's Work**
+Calculator (Add style, Show error message)
+Bookstore.app (Arranging files)
+
+**Thoughts:**
+I planned to finish calculator today but I couldn't . I'm behind the schedule... 
