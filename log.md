@@ -462,7 +462,7 @@ Calculator
 **Thoughts:**
 Making a calculator is harder than I had expected.
 
-Day 46: March 26, 2017
+Day 46: March 27, 2017
 
 +**Today's Progress**: Calculator, Bookstore.app
 
@@ -472,7 +472,7 @@ Calculator, Bookstore.app
 **Thoughts:**
 Starting to learn React.JS again to brush up my Bookstore.app. 
 
-Day 47: March 27, 2017
+Day 47: March 28, 2017
 
 +**Today's Progress**: Calculator, Bookstore.app
 
@@ -482,3 +482,14 @@ Bookstore.app (Arranging files)
 
 **Thoughts:**
 I planned to finish calculator today but I couldn't . I'm behind the schedule... 
+
+Day 48: March 29, 2017
+
++**Today's Progress**: Calculator, Bookstore.app
+
++**Today's Work**
+Calculator (add max length, avoid dublication of operator )
+Bookstore.app (watched video for improve)
+
+**Thoughts:**
+Finally I could finish calculator! 
