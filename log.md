@@ -493,3 +493,13 @@ Bookstore.app (watched video for improve)
 
 **Thoughts:**
 Finally I could finish calculator! 
+
+Day 49: March 30, 2017
+
++**Today's Progress**: Pomodoro clock, Bookstore.app
+
++**Today's Work**
+Pomodoro clock( set up timer, CSS) 
+
+**Thoughts:**
+Started a next project, Pomorodo clock! I enjoy thinking a new design.
