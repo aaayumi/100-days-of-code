@@ -503,3 +503,15 @@ Pomodoro clock( set up timer, CSS)
 
 **Thoughts:**
 Started a next project, Pomorodo clock! I enjoy thinking a new design.
+
+Day 50: March 31, 2017
+
++**Today's Progress**: Pomodoro clock, Bookstore.app, coding challenge
+
++**Today's Work**
+Pomodoro clock( set up timer, CSS) ,coding challenge https://jsfiddle.net/aaayumi/4u32752t/7/
+
+**Thoughts:**
+Worked on one coding challenge. I'm relived that I could solve.. My next goal is to solve much faster..!
+
+
