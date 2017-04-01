@@ -514,4 +514,12 @@ Pomodoro clock( set up timer, CSS) ,coding challenge https://jsfiddle.net/aaayum
 **Thoughts:**
 Worked on one coding challenge. I'm relived that I could solve.. My next goal is to solve much faster..!
 
+Day 51: April 1, 2017
 
++**Today's Progress**: Pomodoro clock, Bookstore.app
+
++**Today's Work**
+Pomodoro clock(timer switch) 
+
+**Thoughts:**
+I'm stucked on timer switch.. I hope I could figure it out soon!
