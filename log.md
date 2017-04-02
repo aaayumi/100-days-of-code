@@ -523,3 +523,13 @@ Pomodoro clock(timer switch)
 
 **Thoughts:**
 I'm stucked on timer switch.. I hope I could figure it out soon!
+
+Day 52: April 2, 2017
+
++**Today's Progress**: Pomodoro clock
+
++**Today's Work**
+Pomodoro clock (http://codepen.io/aaayumi/full/BWMLrx/)
+
+**Thoughts:**
+Finished a Pomodoro clock! It took more time than I had expected. :( I didn't have time to work on bookstore.app.. 
