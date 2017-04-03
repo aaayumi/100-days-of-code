@@ -533,3 +533,13 @@ Pomodoro clock (http://codepen.io/aaayumi/full/BWMLrx/)
 
 **Thoughts:**
 Finished a Pomodoro clock! It took more time than I had expected. :( I didn't have time to work on bookstore.app.. 
+
+Day 53: April 3, 2017
+
++**Today's Progress**: Portfolio
+
++**Today's Work**
+Portfolio (https://aaayumi.github.io/)
+
+**Thoughts:**
+Start to work on portfolio again. 
