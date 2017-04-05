@@ -543,3 +543,13 @@ Portfolio (https://aaayumi.github.io/)
 
 **Thoughts:**
 Start to work on portfolio again. 
+
+Day 54: April 4, 2017
+
++**Today's Progress**: booklist app
+
++**Today's Work**
+booklist app
+
+**Thoughts:**
+Spent time to look for relavent information.
