@@ -564,3 +564,12 @@ booklist app
 **Thoughts:**
 Still I couldn't show the result..
 
+Day 56: April 6, 2017
+
++**Today's Progress**: tic tak toe app, portfolio
+
++**Today's Work**
+tic tak toe app, portfolio
+
+**Thoughts:**
+Starting to work on tic tack toe game. Trying to understand minimum algorithm. Coded a bit for my portfolio page.
