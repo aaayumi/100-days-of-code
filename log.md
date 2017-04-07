@@ -573,3 +573,13 @@ tic tak toe app, portfolio
 
 **Thoughts:**
 Starting to work on tic tack toe game. Trying to understand minimum algorithm. Coded a bit for my portfolio page.
+
+Day 57: April 7, 2017
+
++**Today's Progress**: tic tak toe app, portfolio
+
++**Today's Work**
+tic tak toe app(index.html, style.css) , portfolio
+
+**Thoughts:**
+Coded index.html and style.css for tic tak toe game. 
