@@ -583,3 +583,14 @@ tic tak toe app(index.html, style.css) , portfolio
 
 **Thoughts:**
 Coded index.html and style.css for tic tak toe game. 
+
+Day 58: April 8, 2017
+
++**Today's Progress**: tic tak toe app,
+
++**Today's Work**
+tic tak toe app(index.html, style.css) 
+
+**Thoughts:**
+I tried to code Minimax algorithm but still it's too difficult for me now. Maybe I will go for implementing other way. 
+
