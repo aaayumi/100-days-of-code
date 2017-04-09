@@ -594,3 +594,12 @@ tic tak toe app(index.html, style.css)
 **Thoughts:**
 I tried to code Minimax algorithm but still it's too difficult for me now. Maybe I will go for implementing other way. 
 
+Day 59: April 9, 2017
+
++**Today's Progress**: tic tak toe app and portfolio
+
++**Today's Work**
+tic tak toe app(index.js (except computer move) , portfolio 
+
+**Thoughts:**
+I coded 6 hours today. My plan was to finish both tic tak toe and portfolio this weekend which I failed. :(  At least, I'm learning. What I learn is more important than how fast I can finish. 
