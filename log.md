@@ -604,7 +604,7 @@ tic tak toe app(index.js (except computer move) , portfolio
 **Thoughts:**
 I coded 6 hours today. My plan was to finish both tic tak toe and portfolio this weekend which I failed. :(  At least, I'm learning. What I learn is more important than how fast I can finish. 
 
-Day 60: April 9, 2017
+Day 60: April 10, 2017
 
 +**Today's Progress**: tic tak toe app and portfolio
 
@@ -614,3 +614,12 @@ tic tak toe app(index.js (add computer move, tweak design) , portfolio (add skil
 **Thoughts:**
 I coded 4hours and half today. Enjoy desiging my portfolio but I need to finish as soon as possible! 
 
+Day 61: April 11, 2017
+
++**Today's Progress**: portfolio
+
++**Today's Work**
+portfolio (change design) 
+
+**Thoughts:**
+I decided to change a design of my portfolio drastically. Hope it works good.
