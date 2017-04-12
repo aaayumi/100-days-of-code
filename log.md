@@ -623,3 +623,13 @@ portfolio (change design)
 
 **Thoughts:**
 I decided to change a design of my portfolio drastically. Hope it works good.
+
+Day 62: April 12, 2017
+
++**Today's Progress**: portfolio
+
++**Today's Work**
+portfolio (change design) 
+
+**Thoughts:**
+Finally I bought a domain today.
