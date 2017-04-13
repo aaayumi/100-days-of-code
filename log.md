@@ -633,3 +633,13 @@ portfolio (change design)
 
 **Thoughts:**
 Finally I bought a domain today.
+
+Day 63: April 13, 2017
+
++**Today's Progress**: portfolio, wikipedia viewer 
+
++**Today's Work**
+portfolio (change design) , wikipedia viewer(add functionality, enter click event and clear button event)
+
+**Thoughts:**
+I reviewed my code of wikipedia viewer and added new functionalities. 
