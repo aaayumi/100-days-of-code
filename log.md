@@ -654,7 +654,7 @@ Random quote machine (http://codepen.io/aaayumi/full/GrejpL/)
 **Thoughts:**
 I reviewed one of past projects : random quote machine. I'm away from home for 3 days. I will try my best to keep my routine though it would be harder to continue coding.
 
-Day 65: April 14 ,2017
+Day 65: April 15 ,2017
 
 +**Today's Progress**: Tic Tag Toe game
 
@@ -663,3 +663,25 @@ Tic Tag Toe game
 
 **Thoughts:**
 I realized a big problem in my code. I need to change it! 
+
+Day 66: April 16 ,2017
+
++**Today's Progress**: Tic Tag Toe game
+
++**Today's Work**
+Tic Tag Toe game
+
+**Thoughts:**
+Asked Javi to help me out.  
+
+Day 67: April 17 ,2017
+
++**Today's Progress**: Tic Tag Toe game
+
++**Today's Work**
+Tic Tag Toe game
+
+**Thoughts:**
+I realized a big problem in my code. I need to change it! 
+
+
