@@ -684,4 +684,12 @@ Tic Tag Toe game
 **Thoughts:**
 I realized a big problem in my code. I need to change it! 
 
+Day 68: April 18 ,2017
 
++**Today's Progress**: Tic Tag Toe game
+
++**Today's Work**
+Tic Tag Toe game
+
+**Thoughts:**
+Worked on Tic Tac Toe game. 
