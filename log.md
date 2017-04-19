@@ -693,3 +693,12 @@ Tic Tag Toe game
 
 **Thoughts:**
 Worked on Tic Tac Toe game. 
+
+Day 69: April 19, 2017
++**Today's Progress**: Tic Tag Toe game
+
++**Today's Work**
+Tic Tag Toe game  https://codepen.io/aaayumi/pen/ybYBLm
+
+**Thoughts:**
+Finally the game works well. I need to avoid showing double winner message. I also want to tweak the design.
