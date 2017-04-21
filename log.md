@@ -710,4 +710,13 @@ Day 70: April 20, 2017
 Tic Tag Toe game  https://codepen.io/aaayumi/pen/ybYBLm , React App (Udemy) 
 
 **Thoughts:**
-I still figure out how to avoid showing double winnning massage. I studied React app in the morning. 
+I still figure out how to avoid showing double winnning massage. I studied React app in the morning.
+
+Day 71: April 21, 2017
++**Today's Progress**: Tic Tag Toe game, Markdown previewer
+
++**Today's Work**
+Tic Tag Toe game, Markdown previewer
+
+**Thoughts:**
+Finished Tic Tac Toe game!! Started to work on Markdown Previewer.
