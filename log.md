@@ -720,3 +720,12 @@ Tic Tag Toe game, Markdown previewer
 
 **Thoughts:**
 Finished Tic Tac Toe game!! Started to work on Markdown Previewer.
+
+Day 72: April 22, 2017
++**Today's Progress**: Simon game, Slack bot
+
++**Today's Work**
+Simon game
+
+**Thoughts:**
+Started a Simon game project today. Also, I followed some tutorials for creating slack bot for chingu team project.
