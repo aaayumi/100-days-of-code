@@ -729,3 +729,12 @@ Simon game
 
 **Thoughts:**
 Started a Simon game project today. Also, I followed some tutorials for creating slack bot for chingu team project.
+
+Day 73: April 23, 2017
++**Today's Progress**: React app (Book list) 
+
++**Today's Work**
+React tutorial (Udemy) and Book app 
+
+**Thoughts:**
+I watched a React tutorial and started to rework book app. 
