@@ -738,3 +738,12 @@ React tutorial (Udemy) and Book app
 
 **Thoughts:**
 I watched a React tutorial and started to rework book app. 
+
+Day 74: April 24, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game ( Javascript ) 
+
+**Thoughts:**
+Starting to write a code in JavaScript. 
