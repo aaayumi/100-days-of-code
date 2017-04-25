@@ -747,3 +747,13 @@ Simon game ( Javascript )
 
 **Thoughts:**
 Starting to write a code in JavaScript. 
+
+Day 75: April 25, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game (add audio, highlight effect ) 
+
+**Thoughts:**
+Highlight effect didn't work as I wanted. Tomorrow I will add game effect.
+
