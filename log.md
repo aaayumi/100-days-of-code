@@ -757,3 +757,11 @@ Simon game (add audio, highlight effect )
 **Thoughts:**
 Highlight effect didn't work as I wanted. Tomorrow I will add game effect.
 
+Day 76: April 26, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game (add audio, highlight effect ) 
+
+**Thoughts:**
+I didn't code much today. Today was more like thinking a strategy day.. 
