@@ -774,3 +774,12 @@ Simon game and React Book List
 
 **Thoughts:**
 I finished a book list app ! finally!  I will start a markdown viewer next. 
+
+Day 78: April 26, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game 
+
+**Thoughts:**
+Added stratedy. Starting to work.
