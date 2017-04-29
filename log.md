@@ -766,7 +766,7 @@ Simon game (add audio, highlight effect )
 **Thoughts:**
 I didn't code much today. Today was more like thinking a strategy day.. 
 
-Day 77: April 26, 2017
+Day 77: April 27, 2017
 +**Today's Progress**: Simon game and React Book List 
 
 +**Today's Work**
@@ -775,7 +775,7 @@ Simon game and React Book List
 **Thoughts:**
 I finished a book list app ! finally!  I will start a markdown viewer next. 
 
-Day 78: April 26, 2017
+Day 78: April 28, 2017
 +**Today's Progress**: Simon game 
 
 +**Today's Work**
@@ -783,3 +783,14 @@ Simon game
 
 **Thoughts:**
 Added stratedy. Starting to work.
+
+Day 79: April 29, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game http://ayumi-saito.com/fcc-simon-game/
+
+**Thoughts:**
+Struggling to understand settimecheckout function! added reset button. Nest step is to add strict mode. 
+
+
