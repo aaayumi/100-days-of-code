@@ -793,4 +793,11 @@ Simon game http://ayumi-saito.com/fcc-simon-game/
 **Thoughts:**
 Struggling to understand settimecheckout function! added reset button. Nest step is to add strict mode. 
 
+Day 80: April 30, 2017
++**Today's Progress**: Simon game 
 
++**Today's Work**
+Simon game http://ayumi-saito.com/fcc-simon-game/
+
+**Thoughts:**
+It works now. I need to add some functionaly and it should be done soon.
