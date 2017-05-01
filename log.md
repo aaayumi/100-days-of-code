@@ -801,3 +801,12 @@ Simon game http://ayumi-saito.com/fcc-simon-game/
 
 **Thoughts:**
 It works now. I need to add some functionaly and it should be done soon.
+
+Day 81: May 1st, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game http://ayumi-saito.com/fcc-simon-game/
+
+**Thoughts:**
+It's almost done. I will recheck tomorrow and submit! 
