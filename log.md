@@ -810,3 +810,21 @@ Simon game http://ayumi-saito.com/fcc-simon-game/
 
 **Thoughts:**
 It's almost done. I will recheck tomorrow and submit! 
+
+Day 82: May 2nd, 2017
++**Today's Progress**: Simon game 
+
++**Today's Work**
+Simon game http://ayumi-saito.com/fcc-simon-game/
+
+**Thoughts:**
+I submitted a Simon game! 
+
+Day 83: May 3rd, 2017
++**Today's Progress**: Coding challenge 
+
++**Today's Work**
+Coding challenge, Registration form in React 
+
+**Thoughts:**
+Worked on a coding challenges. 
