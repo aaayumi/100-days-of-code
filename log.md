@@ -828,3 +828,24 @@ Coding challenge, Registration form in React
 
 **Thoughts:**
 Worked on a coding challenges. 
+
+Day 84: May 4th, 2017
++**Today's Progress**: Coding challenge 
+
++**Today's Work**
+Coding challenge, Registration form in React 
+
+**Thoughts:**
+Worked on a coding challenges.  I couldn't finish the registration. Need to review.
+
+Day : May 5th, 2017
+OFF 
+
+Day 85: May 6th, 2017
++**Today's Progress**: Markdown viewer 
+
++**Today's Work**
+Markdown viewer (React) 
+
+**Thoughts:**
+Starting to work on a Markdown viwer 
