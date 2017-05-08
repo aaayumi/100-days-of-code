@@ -849,3 +849,22 @@ Markdown viewer (React)
 
 **Thoughts:**
 Starting to work on a Markdown viwer 
+
+Day 86: May 7th, 2017
++**Today's Progress**: JS review 
+
++**Today's Work**
+JS review 
+
+**Thoughts:**
+As I was travelling in this week, I couldn't make much time to code. I decided to review my code and solve cosing quiz instead.
+
+Day 87: May 8th, 2017
++**Today's Progress**: Markdown previwer 
+
++**Today's Work**
+Markdown previwer 
+
+**Thoughts:**
+I set up a repo again and starting to work again.
+
