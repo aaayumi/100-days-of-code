@@ -903,3 +903,12 @@ Leader Board
 
 **Thoughts:**
 I started a new project today. Learned how to fetch data using axios.
+
+Day 92: May 13rd, 2017
++**Today's Progress**: Leader Board 
+
++**Today's Work**
+Leader Board 
+
+**Thoughts:**
+I built a leader board. 
