@@ -921,3 +921,13 @@ Recipe box
 
 **Thoughts:**
 I started to build a next project. 
+
+Day 94: May 15th, 2017
++**Today's Progress**: Recipe box
+
++**Today's Work**
+Recipe box
+
+**Thoughts:**
+I'm learning how to use Redux with React. I need to figure it out how to store data.
+
