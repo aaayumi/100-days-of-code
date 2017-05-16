@@ -931,3 +931,12 @@ Recipe box
 **Thoughts:**
 I'm learning how to use Redux with React. I need to figure it out how to store data.
 
+Day 95: May 16th, 2017
++**Today's Progress**: Recipe box
+
++**Today's Work**
+Recipe box (Added a modal )
+
+**Thoughts:**
+Today I added a Modal to the recipe box.
+
