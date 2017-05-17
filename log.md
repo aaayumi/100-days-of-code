@@ -940,3 +940,13 @@ Recipe box (Added a modal )
 **Thoughts:**
 Today I added a Modal to the recipe box.
 
+Day 96: May 17th, 2017
++**Today's Progress**: Recipe box
+
++**Today's Work**
+Recipe box ( Add a list )
+
+**Thoughts:**
+Today I added a list to the recipe box.
+
+
