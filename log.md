@@ -949,7 +949,7 @@ Recipe box ( Add a list )
 **Thoughts:**
 Today I added a list to the recipe box.
 
-Day 97: May 18th, 2017
+Day 97 (98 as day 22 was duplicated ) : May 18th, 2017
 +**Today's Progress**: Recipe box
 
 +**Today's Work**
@@ -958,7 +958,7 @@ Recipe box ( Add a style )
 **Thoughts:**
 Today I added styling to the recipe box.
 
-Day 98: May 19th, 2017
+Day 99: May 19th, 2017
 +**Today's Progress**: Recipe box
 
 +**Today's Work**
