@@ -949,4 +949,20 @@ Recipe box ( Add a list )
 **Thoughts:**
 Today I added a list to the recipe box.
 
+Day 97: May 18th, 2017
++**Today's Progress**: Recipe box
 
++**Today's Work**
+Recipe box ( Add a style )
+
+**Thoughts:**
+Today I added styling to the recipe box.
+
+Day 98: May 19th, 2017
++**Today's Progress**: Recipe box
+
++**Today's Work**
+Recipe box 
+
+**Thoughts:**
+I'm struggling to find an way to store recipe data and show. I tried several ways but no success so far. 
