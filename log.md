@@ -966,3 +966,12 @@ Recipe box
 
 **Thoughts:**
 I'm struggling to find an way to store recipe data and show. I tried several ways but no success so far. 
+
+Day 100: May 20th, 2017
++**Today's Progress**: Recipe box
+
++**Today's Work**
+Recipe box 
+
+**Thoughts:**
+Wrote some code after a trip..  I will continue coding with 100Days-of-app project. 
