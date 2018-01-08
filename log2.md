@@ -17,3 +17,9 @@ Day 3: Jan 7, 2017
 +**Today's Progress**:  Recreated my blog in Hexo
 
 +**Thoughts:** The good thing about Hexo is that there are many attractive themes. At some point I want to make own theme.
+
+Day 4: Jan 8, 2017 
+
++**Today's Progress**:  React Popup
+
++**Thoughts:** I made a simple Popup component in React.
