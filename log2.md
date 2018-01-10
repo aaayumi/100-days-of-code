@@ -23,3 +23,9 @@ Day 4: Jan 8, 2017
 +**Today's Progress**:  React Popup
 
 +**Thoughts:** I made a simple Popup component in React.
+
+Day 5: Jan 10, 2017 
+
++**Today's Progress**:  Open_Data_API
+
++**Thoughts:** I added styling. Finalized the project.
