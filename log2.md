@@ -29,3 +29,16 @@ Day 5: Jan 10, 2017
 +**Today's Progress**:  Open_Data_API
 
 +**Thoughts:** I added styling. Finalized the project.
+
+Day 6: Jan 11, 2017 
+
++**Today's Progress**:  React Admin
+
++**Thoughts:** Installed React-redux for a new project.
+
+Day 7: Jan 14, 2017 
+
++**Today's Progress**:  Learn Jekyll
+
++**Thoughts:** I installed Jekyll static website and learn how it works.
+
