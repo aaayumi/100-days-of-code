@@ -42,3 +42,8 @@ Day 7: Jan 14, 2017
 
 +**Thoughts:** I installed Jekyll static website and learn how it works.
 
+Day 8: Jan 15, 2017 
+
++**Today's Progress**:  Learn SVG
+
++**Thoughts:** I learned that it's not recommendable to use jQuery for SVG images.
