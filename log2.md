@@ -47,3 +47,10 @@ Day 8: Jan 15, 2017
 +**Today's Progress**:  Learn SVG
 
 +**Thoughts:** I learned that it's not recommendable to use jQuery for SVG images.
+
+Day 9: Jan 75, 2017 
+
++**Today's Progress**:  Data Visualization / Udacity
+
++**Thoughts:** I learned the kinds of charts and which chart should be used.
+
