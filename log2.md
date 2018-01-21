@@ -48,9 +48,16 @@ Day 8: Jan 15, 2017
 
 +**Thoughts:** I learned that it's not recommendable to use jQuery for SVG images.
 
-Day 9: Jan 75, 2017 
+Day 9: Jan 16, 2017 
 
 +**Today's Progress**:  Data Visualization / Udacity
 
 +**Thoughts:** I learned the kinds of charts and which chart should be used.
+
+Day 10: Jan 21, 2017 
+
++**Today's Progress**:  Started a new project, admin panel.
+
++**Thoughts:** Added React router to the project.
+
 
